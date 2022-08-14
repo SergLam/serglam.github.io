@@ -455,6 +455,14 @@ mark,
   margin-right: 0.5rem;
 }
 
+.list-item-center {
+  text-align: center;
+}
+
+.list-inline-item-image {
+  width: 180px;
+}
+
 .initialism {
   font-size: 90%;
   text-transform: uppercase;
